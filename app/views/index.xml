@@ -1,0 +1,10 @@
+<Alloy>
+	<Window id="win">
+		<!-- use the id specified when you created the widget for src-->
+		<!-- specify an id for accessing the widget object in your app -->
+		<Require type="widget" src="ci.twitter" id="twitter_widget"/>
+		
+		<!-- the table to hold the tweets -->
+		<TableView id="table"/>
+	</Window>
+</Alloy>
