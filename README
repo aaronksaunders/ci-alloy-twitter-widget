@@ -1,18 +1,9 @@
-Welcome to your Appcelerator Titanium Mobile Project
+Sample Appcelerator Alloy Application with a sample widget. The widget was based on the same approach used for the 
+com.appcelerator.searchForBooks widget but this one integrates twitter and I have added some comments in the code
+which made the whole process clearly for me.
 
-This is a blank project.  Start by editing your application's app.js to 
-make your first mobile project using Titanium.
+Hope someone finds this helpful.
 
+Here is the Appcelerator documentation on widgets
 
-
-----------------------------------
-Stuff our legal folk make us say:
-
-Appcelerator, Appcelerator Titanium and associated marks and logos are 
-trademarks of Appcelerator, Inc. 
-
-Titanium is Copyright (c) 2008-2012 by Appcelerator, Inc. All Rights Reserved.
-
-Titanium is licensed under the Apache Public License (Version 2). Please
-see the LICENSE file for the full license.
-
+https://github.com/appcelerator/alloy#building-re-usable-application-widgets
